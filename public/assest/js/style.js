@@ -1,0 +1,7 @@
+function testing() {
+	
+		alert ("plppp");
+	}
+	
+
+
